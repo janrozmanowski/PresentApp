@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 712d113cd3773494c98a1f751ff2cb4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2413594085891579835
+    second: '@adeltaaxch_wugem(O3)_0'
+  - first:
+      213: -2456039483995400350
+    second: '@adeltaaxch_wugem(O3)_1'
+  - first:
+      213: -8727425515963850760
+    second: '@adeltaaxch_wugem(O3)_2'
+  - first:
+      213: -117977970734877608
+    second: '@adeltaaxch_wugem(O3)_3'
+  - first:
+      213: 8894635466700469568
+    second: '@adeltaaxch_wugem(O3)_4'
+  - first:
+      213: 1467183815298392804
+    second: '@adeltaaxch_wugem(O3)_5'
+  - first:
+      213: 3986880218000516776
+    second: '@adeltaaxch_wugem(O3)_6'
+  - first:
+      213: 6341193497951392539
+    second: '@adeltaaxch_wugem(O3)_7'
+  - first:
+      213: 2972057527656781204
+    second: '@adeltaaxch_wugem(O3)_8'
+  - first:
+      213: -5513527253552741131
+    second: '@adeltaaxch_wugem(O3)_9'
+  - first:
+      213: 1466521761053408957
+    second: '@adeltaaxch_wugem(O3)_10'
+  - first:
+      213: -7060255734603270060
+    second: '@adeltaaxch_wugem(O3)_11'
+  - first:
+      213: -4549846747027450813
+    second: '@adeltaaxch_wugem(O3)_12'
+  - first:
+      213: 182490570887821551
+    second: '@adeltaaxch_wugem(O3)_13'
+  - first:
+      213: 2700861710949267956
+    second: '@adeltaaxch_wugem(O3)_14'
+  - first:
+      213: 4009163286556014286
+    second: '@adeltaaxch_wugem(O3)_15'
+  - first:
+      213: 1706992432820752402
+    second: '@adeltaaxch_wugem(O3)_16'
+  - first:
+      213: 9013707003260134829
+    second: '@adeltaaxch_wugem(O3)_17'
+  - first:
+      213: -1309089643596032728
+    second: '@adeltaaxch_wugem(O3)_18'
+  - first:
+      213: 3685809021745484518
+    second: '@adeltaaxch_wugem(O3)_19'
+  - first:
+      213: -7305969219935084141
+    second: '@adeltaaxch_wugem(O3)_20'
+  - first:
+      213: 4160733935853424740
+    second: '@adeltaaxch_wugem(O3)_21'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_0'
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1496
+        width: 130
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf1d89880fce7120800000000000000
+      internalID: 2413594085891579835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_1'
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1509
+        width: 131
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267de1a1a156aedd0800000000000000
+      internalID: -2456039483995400350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_2'
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1515
+        width: 180
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff5b4dabb4f1e680800000000000000
+      internalID: -8727425515963850760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_3'
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1510
+        width: 138
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854b60329abdc5ef0800000000000000
+      internalID: -117977970734877608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_4'
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1310
+        width: 451
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045b547c4d7107b70800000000000000
+      internalID: 8894635466700469568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_5'
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 921
+        width: 386
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2201318eb7c5410800000000000000
+      internalID: 1467183815298392804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_6'
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1191
+        width: 52
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e3f35f6e345730800000000000000
+      internalID: 3986880218000516776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_7'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1206
+        width: 52
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13d869a3e1700850800000000000000
+      internalID: 6341193497951392539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_8'
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1210
+        width: 65
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951204239ede3920800000000000000
+      internalID: 2972057527656781204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_9'
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1144
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4cd80cc240c73b0800000000000000
+      internalID: -5513527253552741131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_10'
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1155
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbef7fe85c12a5410800000000000000
+      internalID: 1466521761053408957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_11'
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1157
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458be83f0dee40e90800000000000000
+      internalID: -7060255734603270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_12'
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 716
+        width: 518
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34456fc5d72bbd0c0800000000000000
+      internalID: -4549846747027450813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_13'
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 817
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe870a41536588200800000000000000
+      internalID: 182490570887821551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_14'
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 856
+        width: 95
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9b5949a636b7520800000000000000
+      internalID: 2700861710949267956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_15'
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 825
+        width: 134
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec675b584c863a730800000000000000
+      internalID: 4009163286556014286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_16'
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 768
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109f88d29470b710800000000000000
+      internalID: 1706992432820752402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_17'
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 222
+        width: 504
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da565c643ce171d70800000000000000
+      internalID: 9013707003260134829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_18'
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 415
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825d05ea7ed25dde0800000000000000
+      internalID: -1309089643596032728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_19'
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 437
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2d11be6cf962330800000000000000
+      internalID: 3685809021745484518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_20'
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 449
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e4d104bbfb9a90800000000000000
+      internalID: -7305969219935084141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '@adeltaaxch_wugem(O3)_21'
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 432
+        width: 107
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d47b5875edb930800000000000000
+      internalID: 4160733935853424740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '@adeltaaxch_wugem(O3)_0': 2413594085891579835
+      '@adeltaaxch_wugem(O3)_1': -2456039483995400350
+      '@adeltaaxch_wugem(O3)_10': 1466521761053408957
+      '@adeltaaxch_wugem(O3)_11': -7060255734603270060
+      '@adeltaaxch_wugem(O3)_12': -4549846747027450813
+      '@adeltaaxch_wugem(O3)_13': 182490570887821551
+      '@adeltaaxch_wugem(O3)_14': 2700861710949267956
+      '@adeltaaxch_wugem(O3)_15': 4009163286556014286
+      '@adeltaaxch_wugem(O3)_16': 1706992432820752402
+      '@adeltaaxch_wugem(O3)_17': 9013707003260134829
+      '@adeltaaxch_wugem(O3)_18': -1309089643596032728
+      '@adeltaaxch_wugem(O3)_19': 3685809021745484518
+      '@adeltaaxch_wugem(O3)_2': -8727425515963850760
+      '@adeltaaxch_wugem(O3)_20': -7305969219935084141
+      '@adeltaaxch_wugem(O3)_21': 4160733935853424740
+      '@adeltaaxch_wugem(O3)_3': -117977970734877608
+      '@adeltaaxch_wugem(O3)_4': 8894635466700469568
+      '@adeltaaxch_wugem(O3)_5': 1467183815298392804
+      '@adeltaaxch_wugem(O3)_6': 3986880218000516776
+      '@adeltaaxch_wugem(O3)_7': 6341193497951392539
+      '@adeltaaxch_wugem(O3)_8': 2972057527656781204
+      '@adeltaaxch_wugem(O3)_9': -5513527253552741131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
